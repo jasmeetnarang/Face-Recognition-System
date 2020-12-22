@@ -1,4 +1,4 @@
-## Iris Recognition System
+## Face Recognition System
 
 
 From the dataset provided to us our solution is divided into two parts as shown below
