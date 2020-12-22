@@ -1,9 +1,9 @@
 ## Face Recognition System
 
 
-From the dataset provided to us our solution is divided into two parts as shown below
-Extraction of faces
-Extraction Eigen Faces 
+From the dataset provided to us our solution is divided into two parts as shown below  
+Extraction of faces  
+Extraction Eigen Faces   
 Performing recognition on a trained neural network
 
 #### Extraction of Faces:
