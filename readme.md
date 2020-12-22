@@ -32,7 +32,7 @@ Following is the process to run the source code:
 
 ##### Additional Information:
 1. Dataset is private
-2. pickel files are stored in pickle_files folder
+2. Pickel files are stored in pickle_files folder
 
 
 ##### Contributors:
